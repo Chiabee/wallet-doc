@@ -97,13 +97,13 @@ Chiabee Wallet [0.1.3526.220203]
 Chiabee Wallet [0.1.3526.220203] 
 
 
-## special function
+## special functions
 
 - The initial creation is a 12-digit mnemonic, and the 12-digit mnemonic can be converted into a 24-digit mnemonic and imported into the Chia official full node wallet and light wallet.
 - Chia's 24-digit mnemonic can be imported.
 - Multi-wallet management under the same mnemonic (similar to metamask)
 
-## basic skills
+## basic functions
 
 - Support offline wallets, that is, neither the private key nor the password leaves the user's device.
    - The private key is stored encrypted, only your login password can decrypt it
