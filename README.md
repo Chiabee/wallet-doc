@@ -11,7 +11,9 @@ Please scroll down for the English description.
 # 说明
 
 ## 当前版本
-Chiabee Wallet [0.1.3519.220202] 
+Chiabee Wallet [0.1.3526.220203]  
+
+
 
 
 ## 特色功能
@@ -92,7 +94,7 @@ Chiabee Wallet [0.1.3519.220202]
 # instruction
 
 ## current version
-Chiabee Wallet [0.1.3519.220202]
+Chiabee Wallet [0.1.3526.220203] 
 
 
 ## special function
@@ -161,11 +163,12 @@ Chiabee Wallet [0.1.3519.220202]
 - Therefore, for some professionals, using the same set of mnemonic phrases, it is possible to choose to store a small amount of money in a normal wallet, and use a shadow wallet to store more important assets. In this way, even if the mnemonic is accidentally leaked, the shadow wallet is difficult to be discovered, thus protecting the user's assets. (This also means that the assets should be transferred to a new secure wallet!)
 - The shadow wallet of Chiabee wallet is created by password and sequence. If you accidentally delete the wallet, you can restore the deleted shadow wallet as long as you enter the previous password when re-creating it.
 - ** Special emphasis: If you use the shadow wallet function, in addition to the mnemonic phrase, you also need to remember the corresponding shadow wallet password, otherwise the assets in the shadow wallet will be completely impossible to retrieve! **
+
     ![image](https://user-images.githubusercontent.com/80501701/152331921-afbef264-83c6-486b-8a2e-f0b52b63d0b4.png)
     ![image](https://user-images.githubusercontent.com/80501701/152331932-f904eecd-bfc7-40b9-a877-0b0a0dbd7228.png)
     ![image](https://user-images.githubusercontent.com/80501701/152331943-ae688aaa-86d7-4e5a-9251-e6244d470ef1.png)
 
 
-## pay attention
+## Pay attention
 - You will be prompted to create a password when using it for the first time. If you forget the password later, you can only restore the wallet through the mnemonic phrase.
 - If you use the shadow wallet function, in addition to the mnemonic phrase, you also need to remember the corresponding shadow wallet password, otherwise the assets in the shadow wallet will be completely irretrievable.
