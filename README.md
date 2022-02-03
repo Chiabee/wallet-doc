@@ -60,10 +60,6 @@ Chiabee Wallet [0.1.3526.220203]
 
     ![image](https://user-images.githubusercontent.com/80501701/152331633-6d025c6e-c349-4eb4-acf8-371d38741299.png)
 
-   - 特别注意，由于目前还没有做删除提示，点击删除将直接删除本钱包。【如果你没有备份好助记词，请一定不要点击它！！！】
-
-    ![image](https://user-images.githubusercontent.com/80501701/152331683-9960f9ea-74b9-482a-b29e-1f9830dc7d46.png)
-
    - 修改钱包名字
    
      ![image](https://user-images.githubusercontent.com/80501701/152331801-f56f678e-388f-4beb-ae3c-98badef36754.png)
@@ -141,10 +137,6 @@ Chiabee Wallet [0.1.3526.220203]
 1. The wallet name and fingerprint will be displayed in the upper right corner. Click here to view wallet information
 
     ![image](https://user-images.githubusercontent.com/80501701/152331633-6d025c6e-c349-4eb4-acf8-371d38741299.png)
-
-   - Special attention, since there is no deletion prompt yet, clicking delete will delete the wallet directly. [If you don't have a backup of the mnemonic phrase, please don't click it! ! ! 】
-
-    ![image](https://user-images.githubusercontent.com/80501701/152331683-9960f9ea-74b9-482a-b29e-1f9830dc7d46.png)
 
    - Modify wallet name
    
