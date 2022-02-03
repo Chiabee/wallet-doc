@@ -92,6 +92,7 @@ Chiabee Wallet [0.1.3526.220203]
 - 若使用影子钱包功能，除助记词外，还需要记住对应的影子钱包密码，否则影子钱包内的资产将彻底无法找回。
 
 # instruction
+This document uses Google translation, there may be some inaccurate places, welcome to give us suggestions.Thank you!
 
 ## current version
 Chiabee Wallet [0.1.3526.220203] 
