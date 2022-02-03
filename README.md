@@ -22,7 +22,8 @@ Chiabee Wallet [0.1.3519.220202]
 
 ## 基本功能
 
-- 支持离线钱包
+- 支持离线钱包，即私钥和密码都不离开使用者的设备。
+  - 私钥为加密存储，只有你的登录密码能将它解密
 - 可接收XCH和CATs的资产。（目前已添加的CATs有BSH\SBX\CH21）
 - 可创建影子钱包。即：同样的助记词，加密码和不加密码将是两个不同的私钥（钱包）。本功能适合专业人士使用。
 
@@ -102,7 +103,8 @@ Chiabee Wallet [0.1.3519.220202]
 
 ## basic skills
 
-- Support offline wallet
+- Support offline wallets, that is, neither the private key nor the password leaves the user's device.
+   - The private key is stored encrypted, only your login password can decrypt it
 - Assets that can receive XCH and CATs. (The currently added CATs are BSH\SBX\CH21)
 - Ability to create shadow wallets. That is: the same mnemonic, encrypted and unencrypted will be two different private keys (wallets). This function is suitable for professionals.
 
