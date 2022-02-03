@@ -3,6 +3,7 @@
 源代码将在之后提供。 此应用程序处于内测阶段，请勿用于正式用途。
 
 The source code would available later. This app is in ALPHA stage, don't use in PRODUCTION.
+
 Please scroll down for the English description.
 
 # 说明
